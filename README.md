@@ -24,7 +24,7 @@ De XD ontwerpschetsen zijn de ontwerpschetsen van mijn eerste passion project id
 
 ## **Uitleg**
 
-De Appshell en de XD ontwerpschetsen heb ik geplaatst in verschillende branches. In de main branch is deze README te zien. In de XD-ontwerpschetsen branch is mijn XD ontwerpschets te zien.
+De Appshell en de XD ontwerpschetsen heb ik geplaatst in verschillende branches. In de main branch is deze README te zien. In de XD-ontwerpschetsen branch is mijn XD ontwerpschetsen te zien.
 
 > **Appshell instructie**
 
