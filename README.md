@@ -31,7 +31,7 @@ De Appshell en de XD ontwerpschetsen heb ik geplaatst in verschillende branches.
 1. Download de repository: deze is hier op [GIT](https://github.com/GinAbagi/Appshell) te downloaden
 2. Open de repository in een code editor
 3. Ga naar het index.html file
-4. Klik met de rechtermuisknop op de code in index.html en selecteer "Öpen with Live Server"
+4. Klik met de rechtermuisknop op de code in index.html en selecteer "Open with Live Server"
 5. Nu is de applicatie geopend en klaar om te bekijken
 
 > **XD ontwerpschetsen instructie**
