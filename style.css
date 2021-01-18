@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: #868686;
+}
+
+header {
+  background-color: #dfb541;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+h1 {
+  background-color: #dfb541;
+  color: white;
+  text-decoration: none;
+}
+
+#tabs a {
+  text-decoration: none;
+  padding-top: 10px;
+  opacity: 0.6;
+
+}
+
+#tab-content {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background-color: #437296;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: var(--tabs-height);
+}
