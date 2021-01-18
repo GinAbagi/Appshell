@@ -3,7 +3,7 @@
 # Inhoudsopgave
 
 - Introductie
-- Gebruiksaanwijzing
+- uitleg
 - Download link
 - Gebruikte taal
 - Feedback
